@@ -5,6 +5,23 @@
 - python 3.11 <br>
 - pyside6 설치 <br>
 
+## Qt_Mouse_Training_Program
+![ㅇㅇㅇ](https://github.com/woodong11/Qt_mini_project_bundle/assets/91379630/b3a48d30-7d17-4b81-bc97-f32baf3656ab)
+
+
+게임을 시작하면 레이블이 랜덤으로 움직이고, 10초 후 레이블을 클릭한 횟수를 메시지 박스로 출력하는 게임입니다. <br>
+1.이름 버튼 : 레이블의 text 변경 기능 <br>
+2.색상 버튼 : 레이블의 배경색 변경 기능<br>
+3.시작 버튼 : 게임 시작 기능<br>
+
+<h3> run </h3>
+
+```python
+pip install pyside6
+python main.py
+```
+
+
 ## Qt_join_membership
 ![도전1](https://github.com/woodong11/Qt_mini_project_bundle/assets/91379630/73d3ef0f-91c5-41d5-a2bf-262bb57a9358)
 <br>임베디드 환경에서 회원가입 폼을 위한 GUI입니다. <br>
@@ -29,4 +46,4 @@
 
 ## Qt_my_notepad
 ![도전3](https://github.com/woodong11/Qt_mini_project_bundle/assets/91379630/4f33d7f2-1ccd-4106-8e5c-45f9a451ffc8)
-<br>QPlainTextEdit()를 사용하고, 메뉴바를 누르면 Status가 바뀌는 메모장입니다. <br>
+<br>QPlainTextEdit()를 사용하고, open, save, save as 기능이 있는 메모장입니다. <br>
