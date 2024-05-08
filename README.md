@@ -2,8 +2,16 @@
 임베디드 GUI를 위한 미니 Qt 과제 모음입니다. (PySide Framework 활용)
 
 ## Enviroment
-- python 3.11 <br>
-- pyside6 설치 <br>
+<h4>using interpreter </h4>
+python 3.11 <br>
+
+<h4>need to install</h4>
+파이참 File - setting - 자신 프로젝트 - python interpreter - +버튼 누르고 설치 <br>
+pyside6 <br>
+matplotlib <br>
+opencv-contrib-python <br>
+
+
 
 ## Qt_Mouse_Training_Program
 ![ㅇㅇㅇ](https://github.com/woodong11/Qt_mini_project_bundle/assets/91379630/b3a48d30-7d17-4b81-bc97-f32baf3656ab)
